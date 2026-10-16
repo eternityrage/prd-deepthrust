@@ -1440,5 +1440,29 @@
         "media_id": "18427038184144492"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_pomegra\u2026_20260926030821.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1319562641243817",
+        "video_id": "2156032858329889",
+        "comment_id": "2156032858329889_2340949666695179",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story",
+        "page_id": "1319562641243817",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "instagram",
+        "media_id": "18414852205085965"
+      }
+    ]
   }
 ]
