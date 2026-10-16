@@ -1416,5 +1416,29 @@
         "media_id": "17989525004871566"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_pears_20260926030819.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1319562641243817",
+        "video_id": "2348104182392896",
+        "comment_id": "2348104182392896_1407444764340182",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story",
+        "page_id": "1319562641243817",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "instagram",
+        "media_id": "18427038184144492"
+      }
+    ]
   }
 ]
