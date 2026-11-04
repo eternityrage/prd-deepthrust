@@ -2807,5 +2807,29 @@
         "media_id": "18138584644729419"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_pineapples_20260926030821.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1319562641243817",
+        "video_id": "1768256564780868",
+        "comment_id": "1768256564780868_1004512515270497",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story",
+        "page_id": "1319562641243817",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "instagram",
+        "media_id": "17979518349131635"
+      }
+    ]
   }
 ]
