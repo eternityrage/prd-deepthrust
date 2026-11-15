@@ -3623,5 +3623,29 @@
         "media_id": "18124866124981710"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_yellow_\u2026_20260926031624.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1319562641243817",
+        "video_id": "1161224696368843",
+        "comment_id": "1161224696368843_1382986563723677",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story",
+        "page_id": "1319562641243817",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "instagram",
+        "media_id": "18079845572743462"
+      }
+    ]
   }
 ]
