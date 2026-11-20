@@ -3935,5 +3935,29 @@
         "media_id": "17987325798102090"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_citrus_\u2026_20260926031623.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1319562641243817",
+        "video_id": "2497901737686153",
+        "comment_id": "2497901737686153_1803309160897601",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story",
+        "page_id": "1319562641243817",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "success",
+        "platform": "instagram",
+        "media_id": "18129754012973626"
+      }
+    ]
   }
 ]
