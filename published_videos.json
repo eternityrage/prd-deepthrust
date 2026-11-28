@@ -4461,5 +4461,27 @@
         "platform": "instagram"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_purple_\u2026_20260926030820.mp4",
+    "results": [
+      {
+        "status": "failed",
+        "platform": "facebook",
+        "page_id": "1319562641243817",
+        "error": "{\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AIEEVRLOdQuPt61MFeo31B7\"}}",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story",
+        "page_id": "1319562641243817",
+        "page_name": "DeepThrust Lens"
+      },
+      {
+        "status": "failed",
+        "platform": "instagram"
+      }
+    ]
   }
 ]
